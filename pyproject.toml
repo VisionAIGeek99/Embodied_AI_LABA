@@ -1,0 +1,13 @@
+[project]
+name = "embodied-ai-laba"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "mani-skill",
+    "torch>=2.7.1",
+]
+
+[tool.uv.sources]
+mani-skill = { path = "third_party/ManiSkill3" }
