@@ -1,3 +1,7 @@
 [submodule "third_party/ManiSkill3"]
 	path = third_party/ManiSkill3
 	url = https://github.com/VisionAIGeek99/ManiSkill3.git
+
+[submodule "third_party/robotis_mujoco_menagerie"]
+	path = third_party/robotis_mujoco_menagerie
+	url = https://github.com/VisionAIGeek99/robotis_mujoco_menagerie.git
